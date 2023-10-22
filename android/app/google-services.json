@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461038233537",
+    "project_id": "chat-app-cadfa",
+    "storage_bucket": "chat-app-cadfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461038233537:android:9bd5d73b04a5c0ad797140",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx67d8Av5NBk63WFAzIHU44ii4bxHnhF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
